@@ -8,9 +8,14 @@
 <br>
 
 <div align="center">
+  <div align="center">
+  <!-- Nova div para o GIF -->
+  <div style="position: relative; text-align: left;">
+    <img align="left" height="250" alt="coding-time" src="assets/code.gif" style="position: absolute; top: 0; left: 0; margin-right: 30px;">
+  </div>
+  
   <!-- Título e tecnologias -->
   <div style="text-align: left; margin-top: 30px;"> <!-- Move o título mais para cima -->
-    <img align="left" height="250" alt="coding-time" src="assets/code.gif" style="margin-right: 30px;">
     <h1>Best Technologies <3</h1>
     <hr style="width: 50%; margin: 10px auto;">
     <div>
