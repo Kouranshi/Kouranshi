@@ -7,29 +7,38 @@
 </div>
 <br>
 
-<div  align="center"> 
-  <div style="display: absolute"><br>
-    <img align="left" height="250" alt="coding-time" src="assets/code.gif" style="position: absolute; top: 0; left: 0; z-index: 10;">
-    <h1 align="center">Best Technologies <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-   </div>
+<div align="center">
+  <!-- Título e tecnologias -->
+  <div style="text-align: left; margin-top: 30px;"> <!-- Move o título mais para cima -->
+    <h1>Best Technologies <3</h1>
+    <hr style="width: 50%; margin: 10px auto;">
+    <div>
+      <img align="center" height="30" width="40" alt="java-icon" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+      <img align="center" height="30" width="40" alt="spring-icon" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+      <img align="center" height="30" width="40" alt="hibernate-icon" src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg">
+      <img align="center" height="30" width="40" alt="mongodb-icon" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+      <img align="center" height="30" width="40" alt="mysql-icon" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+      <img align="center" height="30" width="40" alt="flutter-icon" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+    </div>
+  </div>
 
-   <h1 align="center">Social Media</h1>
-    <a href="mailto:airley.dev@gmail.com" style="margin-right: 25px;">
+  <br><br> <!-- Espaçamento entre as seções -->
+
+  <!-- Social Media -->
+  <div style="margin-top: 50px;"> <!-- Move a seção Social Media mais para baixo -->
+    <h1 align="center">Social Media</h1>
+    <hr style="width: 50%; margin: 0 auto;">
+    <a href="mailto:airley.dev@gmail.com">
       <img width="30" src="assets/gmail.png">
     </a>
-    <a href="https://www.linkedin.com/in/airley-gabriel-a7b2342b6/" style="margin-right: 25px;">
+    <a href="https://www.linkedin.com/in/airley-gabriel-a7b2342b6/">
       <img width="30" src="assets/linkedin.png">
     </a>
     <a href="https://www.instagram.com/_.airleyyxs._/">
       <img width="30" src="assets/instagram.png">
     </a>
-
+  </div>
 </div>
+
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
