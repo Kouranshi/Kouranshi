@@ -23,20 +23,20 @@
     </div>
   </div>
 
-  <br><br> <!-- Espaçamento entre as seções -->
+  <br><br><br><br> <br><br>  <!-- Espaçamento entre as seções -->
 
   <!-- Social Media -->
   <div style="margin-top: 50px;"> <!-- Move a seção Social Media mais para baixo -->
     <h1 align="center">Social Media</h1>
     <hr style="width: 50%; margin: 0 auto;">
     <a href="mailto:airley.dev@gmail.com">
-      <img width="30" src="assets/gmail-icon.png">
+      <img width="30" src="assets/gmail.png">
     </a>
     <a href="https://www.linkedin.com/in/airley-gabriel-a7b2342b6/">
-      <img width="30" src="assets/linkedin-icon.png">
+      <img width="30" src="assets/linkedin.png">
     </a>
     <a href="https://www.instagram.com/_.airleyyxs._/">
-      <img width="30" src="assets/instagram-icon.png">
+      <img width="30" src="assets/instagram.png">
     </a>
   </div>
 </div>
