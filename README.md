@@ -19,6 +19,8 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
    </div>
 
+   <br><br>
+
    <h1 align="center">Social Media</h1>
     <a href="mailto:airley.dev@gmail.com" style="margin-right: 25px;">
       <img width="30" src="assets/gmail.png">
