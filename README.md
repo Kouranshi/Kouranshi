@@ -26,7 +26,7 @@
 
   <br>
     <div style="margin-bottom: 50px;">
-      <img align="left" height="250" alt="coding-time" src="assets/code.gif">
+      <img align="center" height="250" alt="coding-time" src="assets/code.gif">
     </div>
   <br>
 
