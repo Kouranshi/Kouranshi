@@ -11,7 +11,7 @@
   <div align="center">
   <!-- Nova div para o GIF -->
   <div style="margin-bottom: 50px;">
-    <img align="center" height="250" alt="coding-time" src="assets/coding.gif">
+    <img align="center" height="250" alt="coding-time" src="assets/code.gif">
   </div>
   
   <!-- Título e tecnologias -->
