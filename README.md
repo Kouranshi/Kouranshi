@@ -10,8 +10,8 @@
 <div align="center">
   <div align="center">
   <!-- Nova div para o GIF -->
-  <div style="position: relative; text-align: left;">
-    <img align="left" height="250" alt="coding-time" src="assets/code.gif" style="position: absolute; top: 0; left: 0; margin-right: 30px;">
+  <div style="margin-bottom: 50px;">
+    <img align="center" height="250" alt="coding-time" src="assets/coding.gif">
   </div>
   
   <!-- Título e tecnologias -->
