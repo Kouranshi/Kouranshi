@@ -20,15 +20,16 @@
    </div>
 
    <h1 align="center">Social Media</h1>
-    <a href = "mailto: airley.dev@gmail.com">
-      <img width="30" src="assets/gmail.png" style="margin-right: 50px;>
+    <a href="mailto:airley.dev@gmail.com">
+      <img width="30" src="assets/gmail-icon.png" style="margin-right: 25px;">
     </a>
-    <a href = "https://www.linkedin.com/in/airley-gabriel-a7b2342b6/">
-      <img width="30" src="assets/linkedin.png" style="margin-right: 50px;>
+    <a href="https://www.linkedin.com/in/airley-gabriel-a7b2342b6/">
+      <img width="30" src="assets/linkedin-icon.png" style="margin-right: 25px;">
     </a>
-    <a href = "https://www.instagram.com/_.airleyyxs._/">
-      <img width="30" src="assets/instagram.png">
+    <a href="https://www.instagram.com/_.airleyyxs._/">
+      <img width="30" src="assets/instagram-icon.png">
     </a>
+
 </div>
 
 ![Snake animation](https://github.com/Kouranshi/Kouranshi/blob/output/github-contribution-grid-snake.svg)
