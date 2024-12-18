@@ -24,11 +24,11 @@
     </div>
   </div>
 
-  <br><br><br>
+  <br>
     <div style="margin-bottom: 50px;">
       <img align="center" height="250" alt="coding-time" src="assets/code.gif">
     </div>
-  <br><br><br>
+  <br>
 
   <!-- Social Media -->
   <div style="margin-top: 50px;"> <!-- Move a seção Social Media mais para baixo -->
