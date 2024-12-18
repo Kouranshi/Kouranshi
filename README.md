@@ -10,6 +10,7 @@
 <div align="center">
   <!-- Título e tecnologias -->
   <div style="text-align: left; margin-top: 30px;"> <!-- Move o título mais para cima -->
+    <img align="left" height="250" alt="coding-time" src="assets/code.gif" style="margin-right: 30px;">
     <h1>Best Technologies <3</h1>
     <hr style="width: 50%; margin: 10px auto;">
     <div>
@@ -29,16 +30,17 @@
     <h1 align="center">Social Media</h1>
     <hr style="width: 50%; margin: 0 auto;">
     <a href="mailto:airley.dev@gmail.com">
-      <img width="30" src="assets/gmail.png">
+      <img width="30" src="assets/gmail-icon.png">
     </a>
     <a href="https://www.linkedin.com/in/airley-gabriel-a7b2342b6/">
-      <img width="30" src="assets/linkedin.png">
+      <img width="30" src="assets/linkedin-icon.png">
     </a>
     <a href="https://www.instagram.com/_.airleyyxs._/">
-      <img width="30" src="assets/instagram.png">
+      <img width="30" src="assets/instagram-icon.png">
     </a>
   </div>
 </div>
+
 
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
