@@ -9,7 +9,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <img align="left" height="250" alt="coding-time" src="assets/code.gif">
     <h1 align="center">Best Technologies <3</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
@@ -21,13 +21,13 @@
 
    <h1 align="center">Social Media</h1>
     <a href = "mailto: airley.dev@gmail.com">
-      <img width="30" src="gmail.svg">
+      <img width="30" src="assets/gmail.png">
     </a>
     <a href = "https://www.linkedin.com/in/airley-gabriel-a7b2342b6/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="assets/linkedin.png">
     </a>
     <a href = "https://www.instagram.com/_.airleyyxs._/">
-      <img width="25" src="instagram.png">
+      <img width="25" src="assets/instagram.png">
     </a>
 </div>
 
