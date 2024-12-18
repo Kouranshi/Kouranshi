@@ -9,10 +9,6 @@
 
 <div align="center">
   <div align="center">
-  <!-- Nova div para o GIF -->
-  <div style="margin-bottom: 50px;">
-    <img align="center" height="250" alt="coding-time" src="assets/code.gif">
-  </div>
   
   <!-- Título e tecnologias -->
   <div style="text-align: left; margin-top: 30px;"> <!-- Move o título mais para cima -->
@@ -28,7 +24,11 @@
     </div>
   </div>
 
-  <br><br><br><br> <br><br>  <!-- Espaçamento entre as seções -->
+  <br><br><br>
+    <div style="margin-bottom: 50px;">
+      <img align="center" height="250" alt="coding-time" src="assets/code.gif">
+    </div>
+  <br><br><br>
 
   <!-- Social Media -->
   <div style="margin-top: 50px;"> <!-- Move a seção Social Media mais para baixo -->
