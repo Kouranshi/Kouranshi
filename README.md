@@ -32,4 +32,4 @@
 
 </div>
 
-![Snake animation](https://github.com/Kouranshi/Kouranshi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
