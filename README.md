@@ -21,10 +21,10 @@
 
    <h1 align="center">Social Media</h1>
     <a href = "mailto: airley.dev@gmail.com">
-      <img width="30" src="assets/gmail.png" style="margin-right: 10px;>
+      <img width="30" src="assets/gmail.png" style="margin-right: 50px;>
     </a>
     <a href = "https://www.linkedin.com/in/airley-gabriel-a7b2342b6/">
-      <img width="30" src="assets/linkedin.png" style="margin-right: 10px;>
+      <img width="30" src="assets/linkedin.png" style="margin-right: 50px;>
     </a>
     <a href = "https://www.instagram.com/_.airleyyxs._/">
       <img width="30" src="assets/instagram.png">
