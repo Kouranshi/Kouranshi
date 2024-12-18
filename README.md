@@ -25,8 +25,8 @@
   </div>
 
   <br>
-    <div style="position: absolute; top: 30px; left: 30px; z-index: 10;">
-      <img align="left" height="250" alt="coding-time" src="assets/code.gif">
+    <div style="margin-bottom: 50px;">
+      <img align="left" height="250" alt="coding-time" src="assets/coding.gif">
     </div>
   <br>
 
