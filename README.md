@@ -8,7 +8,7 @@
 <br>
 
 <div  align="center"> 
-  <div style="display: flex; flex-direction: column; align-items: center;"><br>
+  <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="assets/code.gif">
     <h1 align="center">Best Technologies <3</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
@@ -19,9 +19,8 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
    </div>
 
-   
-
    <h1 align="center">Social Media</h1>
+   <hr style="width: 50%; margin: 0 auto;">
     <a href="mailto:airley.dev@gmail.com" style="margin-right: 25px;">
       <img width="30" src="assets/gmail.png">
     </a>
